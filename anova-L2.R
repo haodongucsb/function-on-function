@@ -30,7 +30,7 @@ for(i in 1:len)
 temp
 }
 
-#################### The proposed model L2 fit 
+################### The proposed model L2 fit 
 # ds: a vector of length 8 with component value 0 or 1, where 1 means the corresponding parametric component used in model fit. 
 # thetas: a vector of length 7 with component value 0 or 1, where 1 means the corresponding nonparametric component used in model fit.
 
